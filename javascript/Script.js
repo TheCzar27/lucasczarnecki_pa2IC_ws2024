@@ -6,21 +6,21 @@ function showFeature(letter) {
     case "A":
       content = `
         <div>
-            <img src="Assets/img/css-letter-a.png" alt="Aspect Ratio">
+            <img src="Assets/img/css-letter-a.png">
             <button onclick="hideFeature(this)">Hide Result</button>
         </div>`;
       break;
     case "B":
       content = `
         <div>
-            <img src="Assets/img/css-letter-b.png" alt="Border">
+            <img src="Assets/img/css-letter-b.png">
             <button onclick="hideFeature(this)">Hide Result</button>
         </div>`;
       break;
     case "C":
       content = `
         <div>
-            <img src="Assets/img/css-letter-c.png" alt="Colors">
+            <img src="Assets/img/css-letter-c.png">
             <button onclick="hideFeature(this)">Hide Result</button>
         </div>`;
       break;
